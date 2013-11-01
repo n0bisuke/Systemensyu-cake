@@ -1,1 +1,1 @@
-hello
+<?php echo $this->Form->create(); ?>
