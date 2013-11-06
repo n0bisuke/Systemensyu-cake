@@ -5,21 +5,18 @@
 
 第7回 課題
 ----------------
-[基礎課題1 ](http://49.212.46.130/~n0bisuke/cake/join/) - ユーザ登録画面の作成
+-基礎課題1
+[動作ページ](http://49.212.46.130/~n0bisuke/cake/join/)
+[コード](https://github.com/n0bisuke/Systemensyu-cake/blob/master/app/Controller/HelloController.php)
 
-[基礎課題2 ](http://49.212.46.130/~n0bisuke/cake/join/) - ユーザ登録画面の作成
+-基礎課題2
+[動作ページ](http://49.212.46.130/~n0bisuke/cake/join/)
+[コード](https://github.com/n0bisuke/Systemensyu-cake/blob/master/app/Controller/HelloController.php)
 
-[発展課題1 ](http://49.212.46.130/~n0bisuke/cake/join/) - ユーザ登録画面の作成
+-発展課題1
+[動作ページ](http://49.212.46.130/~n0bisuke/cake/join/)
+[コード](https://github.com/n0bisuke/Systemensyu-cake/blob/master/app/Controller/HelloController.php)
 
-[発展課題2 ](http://49.212.46.130/~n0bisuke/cake/join/) - ユーザ登録画面の作成
-
-第6回 課題
-----------------
-[基礎課題1 ](http://49.212.46.130/~n0bisuke/cake/join/) - ユーザ登録画面の作成
-
-[基礎課題2 ](http://49.212.46.130/~n0bisuke/cake/join/) - ユーザ登録画面の作成
-
-[発展課題1 ](http://49.212.46.130/~n0bisuke/cake/join/) - ユーザ登録画面の作成
-
-[発展課題2 ](http://49.212.46.130/~n0bisuke/cake/join/) - ユーザ登録画面の作成
-
+-発展課題2
+[動作ページ](http://49.212.46.130/~n0bisuke/cake/join/)
+[コード](https://github.com/n0bisuke/Systemensyu-cake/blob/master/app/Controller/HelloController.php)
