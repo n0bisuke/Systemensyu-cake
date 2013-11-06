@@ -1,39 +1,25 @@
-CakePHP
+課題提出ページ(サンプル)
 =======
 
-[![CakePHP](http://cakephp.org/img/cake-logo.png)](http://www.cakephp.org)
+[![CakePHP](https://pbs.twimg.com/profile_images/1182958704/9a09649f-0b54-4c57-8c91-60d76cbcabfa.jpg)](http://twitter.com/n0bisuke)
 
-CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC.
-Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.
-
-Some Handy Links
+第7回 課題
 ----------------
+[基礎課題1 ](http://49.212.46.130/~n0bisuke/cake/join/) - ユーザ登録画面の作成
 
-[CakePHP](http://www.cakephp.org) - The rapid development PHP framework
+[基礎課題2 ](http://49.212.46.130/~n0bisuke/cake/join/) - ユーザ登録画面の作成
 
-[Cookbook](http://book.cakephp.org) - THE Cake user documentation; start learning here!
+[発展課題1 ](http://49.212.46.130/~n0bisuke/cake/join/) - ユーザ登録画面の作成
 
-[Plugins](http://plugins.cakephp.org/) - A repository of extensions to the framework
+[発展課題2 ](http://49.212.46.130/~n0bisuke/cake/join/) - ユーザ登録画面の作成
 
-[The Bakery](http://bakery.cakephp.org) - Tips, tutorials and articles
+第6回 課題
+----------------
+[基礎課題1 ](http://49.212.46.130/~n0bisuke/cake/join/) - ユーザ登録画面の作成
 
-[API](http://api.cakephp.org) - A reference to Cake's classes
+[基礎課題2 ](http://49.212.46.130/~n0bisuke/cake/join/) - ユーザ登録画面の作成
 
-[CakePHP TV](http://tv.cakephp.org) - Screen casts from events and video tutorials
+[発展課題1 ](http://49.212.46.130/~n0bisuke/cake/join/) - ユーザ登録画面の作成
 
-[The Cake Software Foundation](http://cakefoundation.org/) - promoting development related to CakePHP
+[発展課題2 ](http://49.212.46.130/~n0bisuke/cake/join/) - ユーザ登録画面の作成
 
-Get Support!
-------------
-
-[Our Google Group](https://groups.google.com/group/cake-php) - community mailing list and forum
-
-[#cakephp](http://webchat.freenode.net/?channels=#cakephp) on irc.freenode.net - Come chat with us, we have cake.
-
-[Q & A](http://ask.cakephp.org/) - Ask questions here, all questions welcome
-
-[Lighthouse](https://cakephp.lighthouseapp.com/) - Got issues? Please tell us!
-
-[![Bake Status](https://secure.travis-ci.org/cakephp/cakephp.png?branch=master)](http://travis-ci.org/cakephp/cakephp)
-
-![Cake Power](https://raw.github.com/cakephp/cakephp/master/lib/Cake/Console/Templates/skel/webroot/img/cake.power.gif)
