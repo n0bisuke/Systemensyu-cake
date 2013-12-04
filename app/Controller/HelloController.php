@@ -5,6 +5,10 @@
     public $components = array('DebugKit.Toolbar'); //DebugKitの適用
 
     function index(){
-    	echo "aaaa";
+    	//$this->layout=null;
+
+    	if($this->request->is('post')){
+    		pr($this->request->data);
+    	}
     }
  }
